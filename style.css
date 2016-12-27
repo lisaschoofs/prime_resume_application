@@ -1,9 +1,12 @@
 html, body {
   font-family: arial;
+  padding: 20
 }
 
 #contact {
   text-align: center;
+   border: 2px solid #003366;
+   border-radius: 5px;
 }
 
 h1 {
