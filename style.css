@@ -1,17 +1,20 @@
 html, body {
   font-family: arial;
-  padding: 20
+  background-color: #cce6ff;
 }
 
 div {
 	border-radius: 20px;
 }
 
+img {
+
+}
+
 #contact {
   text-align: center;
    border: 10px solid #003366;
    border-radius: 5px;
-   background-color: #cce6ff;
 }
 
 #experience {
@@ -26,6 +29,7 @@ div {
 
 h1 {
   color: #006666;
+
 }
 
 h2 {
