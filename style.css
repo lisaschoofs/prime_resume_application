@@ -1,12 +1,16 @@
-#contact {
-  text-align: center;
+html, body {
+  font-family: arial;
 }
 
-ul {
-  background-color: CAECEC;
-  font: georgia, serif;
+#contact {
+  text-align: center;
 }
 
 h1 {
   color: #006666;
 }
+
+h2 {
+  color: #003366;
+}
+
