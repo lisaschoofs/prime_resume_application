@@ -19,16 +19,16 @@ html, body {
     padding-left: 100px;
 }
 
-h2 {
+h1 {
   color: #006666;
   border-bottom: 2px solid #003366;
 }
 
-h3 {
+h2 {
   color: #003366;	
 }
 
-h4 {
+h3 {
   font-style: italic;
 }
 
