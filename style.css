@@ -1,10 +1,12 @@
-p {
-  color: red;
-}
 body {
   background color: CAECEC;
   font: verdana;
 }
+
+p {
+  color: red;
+}
+
 h1 {
   color: #006666;
 }
