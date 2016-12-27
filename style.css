@@ -13,8 +13,7 @@ img {
 
 #contact {
   text-align: center;
-   border: 10px solid #003366;
-   border-radius: 5px;
+  border-bottom: 10px solid #003366;
 }
 
 #experience {
