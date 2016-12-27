@@ -19,7 +19,9 @@ div {
 }
 
 #education {
-   padding: 25px 50px 75px 100px;
+    padding-right: 50px;
+    padding-bottom: 75px;
+    padding-left: 100px;
 }
 
 h1 {
@@ -27,8 +29,7 @@ h1 {
 }
 
 h2 {
-  color: #003366;
-	
+  color: #003366;	
 }
 
 h3 {
