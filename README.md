@@ -1,8 +1,8 @@
-Alt-H1 Personal Resume - Prime Digital Academy Application
+# Personal Resume - Prime Digital Academy Application
 ======
 This project is my very first Github contribution. As a part of my application to [Prime Digital Academy](https://www.primeacademy.io), I created a simple resume page. I applied what I learned through an HTML/CSS course on [Codecademy](https://www.Codecademy.com) to this project.
 
-Alt-H2 Technologies Used:
+## Technologies Used:
 ------
 - HTML5
 - CSS3
